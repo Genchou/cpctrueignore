@@ -13,6 +13,6 @@
         }
     ],
     "permissions": [
-        "https://forum.canardpc.com/"
+        "http://forum.canardpc.com/"
     ]
 }
