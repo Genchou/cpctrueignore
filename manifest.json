@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "CanardPC true ignore",
-    "description": "Tired of seeing a special reminder whenever someone in your ignore list posts something ? This extension will make those disappear",
+    "description": "Simple Chrome extension that completely removes forum posts that are ignored on the CanardPC forums.",
     "version": "1.0",
     "browser_action": {
         "default_icon": "emo.png"
