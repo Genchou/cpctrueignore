@@ -9,7 +9,7 @@
     "content_scripts": [
         {
             "matches": ["http://forum.canardpc.com/*"],
-            "js": ["cpc-ignore.js"]
+            "css": ["cpc-ignore.css"]
         }
     ],
     "permissions": [

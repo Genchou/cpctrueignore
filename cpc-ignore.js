@@ -1,3 +1,5 @@
+// NOT USED
+
 var postsList = document.getElementById("postlist");
 if (postsList != null) {
     var ignored = postsList.getElementsByClassName("postbitignored");
